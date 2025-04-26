@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+:root {
+    --lowWeight: #2ecc71;
+    --regular: #81ecec;
+    --overWeight: #0984e3;
+    --obese1: #f1c40f;
+    --obese2: #e67e22;
+    --obese3: #EA2027;
+}

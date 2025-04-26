@@ -1,0 +1,54 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    padding-top: 16px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.form input {
+    margin: 8px 0;
+}
+
+.formTittles, .texts {
+    padding: 8px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.containerLowWeight {
+    background-color: var(--lowWeight);
+    border-radius: 24px
+}
+
+.containerRegular {
+    background-color: var(--regular);
+    border-radius: 24px
+}
+
+.containerOverWeight {
+    background-color: var(--overWeight);
+    border-radius: 24px
+}
+
+.containerObese1 {
+    background-color: var(--obese1);
+    border-radius: 24px
+}
+
+.containerObese2 {
+    background-color: var(--obese2);
+    border-radius: 24px
+}
+
+.containerObese3 {
+    background-color: var(--obese3);
+    border-radius: 24px
+}
